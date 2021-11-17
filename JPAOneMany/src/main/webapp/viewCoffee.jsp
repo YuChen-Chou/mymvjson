@@ -23,6 +23,7 @@
 	<td><c:out value="${rows.supplier.supName}"/></td>
 </tr>
 </c:forEach>
+Hello
 </table>
 </body>
 </html>
